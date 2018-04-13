@@ -18,24 +18,17 @@ Different n size is provided in seperated files of "win_n", which n = 3, 6, 12.
 1. Install pre-request<br/>
 Python 3.3+<br/>
 Xgboost<br/>
-http://xgboost.readthedocs.io/en/latest/build.html
-<br/>
-SK-learn
-<br/>
-http://scikit-learn.org/stable/install.html
-<br/>
-SK-learn imbalanced-learn
-<br/>
-http://contrib.scikit-learn.org/imbalanced-learn/stable/index.html
-<br/>
-<br/>
-Jupyter notebook is highly-recommended for step-by-step observation.
-<br/>
+http://xgboost.readthedocs.io/en/latest/build.html<br/>
+SK-learn<br/>
+http://scikit-learn.org/stable/install.html<br/>
+SK-learn imbalanced-learn<br/>
+http://contrib.scikit-learn.org/imbalanced-learn/stable/index.html<br/>
+Jupyter notebook is highly-recommended for step-by-step observation.<br/>
+
+
 2. Get started<br/>
-Unzip the contatenated data in the repo
-<br/>
-Open Cow_Alarm_boundary.ipynb in jupyter notebook
-<br/>
+Unzip the contatenated data in the repo<br/>
+Open Cow_Alarm_boundary.ipynb in jupyter notebook<br/>
 Run!
 
 
