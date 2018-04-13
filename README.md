@@ -2,7 +2,7 @@
 BABY on the way
 <br/>
 <br/>
-<br/>
+
 # Dataset
 The dataset contains data of 1043 pregnant cows.<br/>
 For each cow, the data is recorded every 2 hours (i.e. 1 period).<br/>
@@ -13,13 +13,11 @@ The label represent the closest period of the time interval to calving.<br/>
 Different n size is provided in seperated files of "win_n", which n = 3, 6, 12.
 <br/>
 <br/>
-<br/>
-<br/>
+
 # Run<br/>
 1. Install pre-request<br/>
 Python 3.3+<br/>
-Xgboost
-<br/>
+Xgboost<br/>
 http://xgboost.readthedocs.io/en/latest/build.html
 <br/>
 SK-learn
