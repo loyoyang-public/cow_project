@@ -29,6 +29,20 @@ Jupyter notebook is highly-recommended for step-by-step observation.<br/>
 2. Get started<br/>
 Unzip the contatenated data in the repo<br/>
 Open Cow_Alarm_boundary.ipynb in jupyter notebook<br/>
-Run!
+Run!<br/>
+<br/>
+<br/>
 
-
+# Recommended readings before start<br/>
+About XGBoost<br/>
+http://xgboost.readthedocs.io/en/latest/model.html<br/>
+A good example using different classifiers in XGBoost, written by the team: <br/>
+https://github.com/dmlc/xgboost/blob/master/demo/guide-python/sklearn_examples.py<br/>
+A good 101-start written by Jason Brownlee<br/>
+https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/<br/>
+<br/>
+About how to handle imbalanced dataset<br/>
+http://contrib.scikit-learn.org/imbalanced-learn/stable/auto_examples/index.html
+<br/>
+About the classifiers in SK-learn<br/>
+http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
