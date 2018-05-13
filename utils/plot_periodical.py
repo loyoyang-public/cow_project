@@ -49,7 +49,7 @@ def periodical_confusion_matrix(label,score,periods):
     axes = plt.gca()
     axes.set_xlim([120,0])
     plt.legend((p1[0],p2[0],p3[0]),('TP','FP','FN'),loc=3)
-    plt.title('TP vs. FP along periods using RF, #tree = 80',fontsize = 20)
+    plt.title('TP vs. FP along periods',fontsize = 20)
     plt.rcParams['figure.figsize'] = [15, 10]
     plt.grid(True, color = 'lightgray')
 
