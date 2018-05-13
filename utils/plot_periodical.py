@@ -1,5 +1,10 @@
 import numpy as np
 from matplotlib import pyplot as plt
+
+# plot TP/FP/FN cases along periods
+# label and score should be n*(dim of data), n should correspond to len(periods)
+
+
 def periodical_confusion_matrix(label,score,periods):
     fp = []
     tp = []
@@ -22,7 +27,7 @@ def periodical_confusion_matrix(label,score,periods):
         tp.append(result[1,1])
         fn.append(result[1,0])
          
-    
+    # plot FP downwards
     fp = [x*(-1) for x in fp]
     
     fp = np.array(fp)
